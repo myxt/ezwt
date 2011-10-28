@@ -5,14 +5,14 @@
     <name>design/admin/node/view/full</name>
     <message>
         <source>Remove selected</source>
-        <translation type="unfinished"></translation>
+        <translation>Selectie verwijderen</translation>
     </message>
 </context>
 <context>
     <name>design/standard/content/edit</name>
     <message>
         <source>Send for publishing</source>
-        <translation>Verzend voor publicatie</translation>
+        <translation>Publiceren</translation>
     </message>
     <message>
         <source>Manage versions</source>
@@ -24,11 +24,11 @@
     </message>
     <message>
         <source>Preview</source>
-        <translation>Voorbeeld</translation>
+        <translation>Voorbeeldweergave</translation>
     </message>
     <message>
         <source>Translate from</source>
-        <translation>Vertaal van</translation>
+        <translation>Vertalen van</translation>
     </message>
     <message>
         <source>Translate</source>
@@ -36,11 +36,11 @@
     </message>
     <message>
         <source>Publish the contents of the draft that is being edited. The draft will become the published version of the object.</source>
-        <translation type="unfinished"></translation>
+        <translation>Het huidige concept publiceren. Het concept wordt dan de gepubliceerde versie van het object.</translation>
     </message>
     <message>
         <source>Store draft</source>
-        <translation type="unfinished"></translation>
+        <translation>Concept opslaan</translation>
     </message>
     <message>
         <source>Store the contents of the draft that is being edited and continue editing. Use this button to periodically save your work while editing.</source>
